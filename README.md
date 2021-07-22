@@ -17,3 +17,4 @@ All object files will be stored in builds folder and it will also link all with 
 ```bash
 $ ./main
 
+![Bank ScreenShot](/resources/Bank.png)
